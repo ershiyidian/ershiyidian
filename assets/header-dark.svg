@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="284" viewBox="0 0 840 284">
+  <line x1="12" y1="14" x2="828" y2="14" stroke="#EDEBE4" stroke-width="1" stroke-opacity="0.15"/>
+  <line x1="7.5" y1="14" x2="16.5" y2="14" stroke="#EDEBE4" stroke-width="1" stroke-opacity="0.42"/><line x1="12" y1="9.5" x2="12" y2="18.5" stroke="#EDEBE4" stroke-width="1" stroke-opacity="0.42"/>
+  <line x1="823.5" y1="14" x2="832.5" y2="14" stroke="#EDEBE4" stroke-width="1" stroke-opacity="0.42"/><line x1="828" y1="9.5" x2="828" y2="18.5" stroke="#EDEBE4" stroke-width="1" stroke-opacity="0.42"/>
+
+  <text x="12" y="38" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="2.0" fill="#6B675F">SHANGHAI UNIVERSITY  &#8212;  31.23&#176; N, 121.47&#176; E</text>
+  <text x="828" y="38" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="2.0" fill="#6B675F">QIANCHENG ZHOU</text>
+
+  <text x="12" y="118" font-family="Georgia, 'Times New Roman', 'Liberation Serif', 'DejaVu Serif', serif" font-size="42" fill="#EDEBE4">Deliberate intent,</text>
+  <text x="12" y="166" font-family="Georgia, 'Times New Roman', 'Liberation Serif', 'DejaVu Serif', serif" font-size="42" font-style="italic" fill="#9A968C">measured execution.</text>
+
+  <text x="12" y="208" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, 'Liberation Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9A968C">Multimodal agents, verifiable reinforcement learning, and cross-machine developer systems.</text>
+
+  <text x="12" y="272" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="2.1" fill="#6B675F">SELECTED WORKS</text>
+  <text x="828" y="272" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="2.0" fill="#6B675F">01 &#8212; 03</text>
+</svg>
